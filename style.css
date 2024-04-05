@@ -1,0 +1,225 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+
+  
+.main{
+    margin: auto;
+    width: 96%;
+
+    
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+}
+#android{
+    width: 50px;
+}
+#h1 {
+    text-align: left;
+    width: 280px;
+    margin-bottom: 10px;
+}
+#h2 {
+    text-align: left;
+    width: 445px;
+    margin-bottom: 10px;
+}
+.infinte{
+    width: 68px;
+    mix-blend-mode: darken;
+}
+
+
+.device{
+    width: 30px;
+}
+#img2{
+    width: 350px;
+}
+#h{
+    width: 344px;
+    text-align: left;
+    margin-bottom: 10px;
+}
+#p3{
+    text-align: left;
+}
+.left>img{
+    width: 100px;
+    margin: 4px;
+}
+.right>label>img{
+    width: 20px;
+}
+.right{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 36px;
+
+   
+}
+select{
+    border: none;
+}
+.first {
+    display: flex;
+    flex-direction: column;
+    background-image: url(./securevpnlike.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+   
+    gap: 200px;
+}
+.p{
+    font-weight: 700;
+}
+#btn1{
+    margin-top: 18px;
+}
+#p1{
+    font-weight: 100;
+}
+.acenter{
+    text-align: center;
+    display: block;
+}
+a{
+    color: rgb(20, 152, 20);
+    font-weight: 800;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.section5 div>p{
+    font-weight: 600;
+}
+.align{
+  
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.second {
+    display: flex;
+    align-items: center;
+    margin: 40px 20px 44px 20px;
+    justify-content: center;
+    gap: 171px;
+}
+.left1>img{
+    width: 400px;
+}
+.box2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 27px;
+}
+.p1{
+    font-size: 10px;
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+    font-weight: 900;
+}
+.btn{
+    
+border: none;
+    padding: 12px 23px;
+    border-radius: 23px;
+    cursor: pointer;
+    background: #29bf74;
+}
+.bold{
+    font-weight: 600;
+}
+.one{
+display: flex;
+flex-direction: column;
+align-items: center;
+gap: 20px;
+justify-content: center;
+}
+.two{
+display: flex;
+flex-direction: column;
+align-items: center;
+gap: 20px;
+justify-content: center;
+}
+
+.section5 {
+    background-image: url(./map.jpg);
+    background-size: cover;
+    background-position: revert;
+    margin-top: 40px;
+    height: 705px;
+}
+.gocenter {
+    padding-top: 87px;
+    text-align: center;
+}
+
+.goleft {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    padding-right: 106px;
+    padding-top: 139px;
+    align-items: end;
+}
+.three{
+display: flex;
+flex-direction: column;
+align-items: center;
+gap: 20px;
+justify-content: center;
+}
+.section4{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+
+.sectionin{
+    display: flex;
+    align-items: center;
+    text-align: center;
+   justify-content: space-around;
+
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
+#img5 {
+    width: 205px;
+    height: 140px;
+    border-radius: 40px;
+}
+
+#img4 {
+    width: 217px;
+    border-radius: 40px;
+}
+
+#img3 {
+    width: 227px;
+    height: 140px;
+    border-radius: 40px;
+}
+.btn:hover{
+    background-color: rgb(80, 159, 100);
+}
